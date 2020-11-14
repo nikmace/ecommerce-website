@@ -1,0 +1,61 @@
+const data = {
+    products: [
+        {
+            _id: '1',
+            name: 'C’est Normal Black Hoodie',
+            category: 'Hoodies',
+            image: './images/first-image.jpg',
+            price: 129,
+            brand: 'C’est Normal',
+            rating: 4.8,
+            numReviews: 10,
+            description: 'High quality material',
+        },
+        {
+            _id: '2',
+            name: 'Original Raw Edge T-shirt',
+            category: 'T-Shirts',
+            image: './images/second-image.jpg',
+            price: 69,
+            brand: 'C’est Normal',
+            rating: 4.8,
+            numReviews: 10,
+            description: 'High quality material',
+        },
+        {
+            _id: '3',
+            name: 'Original Raw Edge T-shirt',
+            category: 'Hoodies',
+            image: './images/third-image.webp',
+            price: 69,
+            brand: 'C’est Normal',
+            rating: 4.8,
+            numReviews: 10,
+            description: 'High quality material',
+        },
+        {
+            _id: '4',
+            name: 'C’est Normal Off-white Hoodie Limited',
+            category: 'Hoodies',
+            image: './images/fourth-image.jpg',
+            price: 170,
+            brand: 'C’est Normal',
+            rating: 4.8,
+            numReviews: 10,
+            description: 'High quality material',
+        },
+        {
+            _id: '5',
+            name: 'C’est Normal Grey Hoodie',
+            category: 'Hoodies',
+            image: './images/fifth-image.jpg',
+            price: 129,
+            brand: 'C’est Normal',
+            rating: 4.8,
+            numReviews: 10,
+            description: 'High quality material',
+        },
+    ]
+}
+
+export default data;
